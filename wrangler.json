@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "crimson-firefly-c220",
+  "name": "crimson-firefly-c220-1",
   "compatibility_date": "2024-11-01",
   "main": "./server.ts",
   "observability": {
